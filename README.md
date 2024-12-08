@@ -1,6 +1,6 @@
 <div align="center">
 
-# Recursos para Estudiar Ciencias De Datos
+# Recursos para Estudiar Ciencias De Datos Con Victor Perez 
 
 ![Datos Para Todos](https://i.imgur.com/cl5lXMO.png)
 
